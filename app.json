@@ -9,7 +9,7 @@
     "success_url": "/",
     "buildpacks": [
         {
-            "url": "http://github.com/heroku/heroku-buildpack-nginx.git#v1.4.0"
+            "url": "http://github.com/heroku/heroku-buildpack-nginx.git#v1.4"
         },
         {
             "url": "http://github.com/mozilla/mattermost-heroku.git#v2.2.0"
